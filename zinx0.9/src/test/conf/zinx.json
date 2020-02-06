@@ -1,0 +1,6 @@
+{
+  "Name": "zinx-server-app",
+  "Host": "127.0.0.1",
+  "MaxConn": 2,
+  "WorkerPoolSize": 10
+}
